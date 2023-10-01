@@ -1,4 +1,4 @@
-<img  alt="banner" height=50% src="https://leeds.tech/wp-content/uploads/2019/10/blinky-cat-bird-green.gif">
+<img  alt="banner" height=181 src="https://leeds.tech/wp-content/uploads/2019/10/blinky-cat-bird-green.gif">
 <h1 align="center">Hi 👋, I'm Aditya Khevaria</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 <img align="right" alt="coding" width=400 src="https://blog.simitclub.com/images/programming.gif">
