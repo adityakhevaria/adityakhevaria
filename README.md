@@ -1,7 +1,7 @@
 <img  alt="banner" src="https://leeds.tech/wp-content/uploads/2019/10/blinky-cat-bird-green.gif">
 <h1 align="center">Hi 👋, I'm Aditya Khevaria</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
-<img align="right" height=50% alt="coding" width=400 src="https://blog.simitclub.com/images/programming.gif">
+<img align="right" height=200  alt="coding" width=1000 src="https://blog.simitclub.com/images/programming.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityakhevaria&label=Profile%20views&color=0e75b6&style=flat" alt="adityakhevaria" /> </p>
 
 <p align="left"> <a href="https://twitter.com/akhevaria" target="blank"><img src="https://img.shields.io/twitter/follow/akhevaria?logo=twitter&style=for-the-badge" alt="akhevaria" /></a> </p>
